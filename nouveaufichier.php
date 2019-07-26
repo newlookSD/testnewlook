@@ -1,6 +1,6 @@
 <?php 
 
-echo "preparation de mon commit";
+echo "et là qussi";
 echo "on développe quelque chose";
 echo "et encore quelque chose";
 
